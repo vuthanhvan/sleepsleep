@@ -3,13 +3,13 @@
 // @unocss-include
 
 export default {
-  name: 'Happy Paws',
+  name: 'Ngủ Ngon Nhé!',
   description: 'Adopt Your Fur Mate',
   logo: 'i-noto:cat-face',
-  author: 'Pinegrow',
-  url: 'https://happy-paws-with-nuxt-tailwindcss.netlify.app',
-  github: 'https://github.com/pinegrow/happy-paws-with-nuxt-tailwindcss',
-  defaultLocale: 'en', // default
+  author: 'Nana',
+  url: '',
+  github: 'https://github.com/',
+  defaultLocale: 'vi', // default
   identity: {
     type: 'Organization',
   } as any,
@@ -17,8 +17,8 @@ export default {
   trailingSlash: false, // default
   titleSeparator: '|', // default
   nav: [
-    { text: 'Home', link: '/', type: 'primary', icon: 'i-mdi-home' },
-    { text: 'Adopt Now', link: '/adopt', type: 'primary', icon: 'i-mdi-home' },
+    { text: 'Tranh chủ', link: '/', type: 'primary', icon: 'i-mdi-home' },
+    { text: 'Cửa hàng', link: '/adopt', type: 'primary', icon: 'i-mdi-home' },
     {
       text: 'Donate',
       link: '/quick-start',
@@ -33,10 +33,16 @@ export default {
     },
     { text: 'Blog', link: '/blog', type: 'secondary', icon: 'i-mdi-home' },
     {
-      text: 'Volunteer',
-      link: '/volunteer',
+      text: 'Về chúng tôi',
+      link: '/aboutus',
       type: 'secondary',
       icon: 'i-mdi-home',
     },
+    // {
+    //   text: 'Liên hệ',
+    //   link: '/contact',
+    //   type: 'secondary',
+    //   icon: 'i-mdi-home',
+    // },
   ],
 }

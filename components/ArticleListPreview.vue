@@ -51,7 +51,7 @@
           >
         </div>
       </div>
-      <div class="bg-primary-500">
+      <div class="bg-blue-500">
         <div
           class="flex items-center justify-between mt-auto p-4 rounded-b-lg shadow-2xl"
         >
@@ -68,7 +68,7 @@
               :src="article.user.profile_image"
             />
             <div
-              class="flex flex-col items-start text-white dark:text-primary-800"
+              class="flex flex-col items-start text-white dark:text-blue-800"
             >
               <h6 class="whitespace-pre-wrap">{{ article.user.name }}</h6>
               <PostDate :date="article.published_at" />

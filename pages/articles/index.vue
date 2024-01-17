@@ -1,9 +1,10 @@
+<!-- BÀI VIÊT -->
 <script setup lang="ts">
   definePageMeta({
     // layout: 'default',
     // name: 'articles',
     // alias: 'articles',
-    title: 'Articles',
+    title: 'Bài viết',
     description: 'Devour Knowledge, One Article at a Time!',
     navOrder: 4,
     type: 'secondary',
@@ -15,9 +16,11 @@
   <section>
     <TheHeader>
       <div class="container mx-auto px-4">
-        <h2 class="mb-2 text-5xl">Articles</h2>
+        <h2 class="mb-2 text-5xl">Bài viết</h2>
         <div class="flex items-center">
-          <h6>Source for this blog</h6>
+          <h6>Thêm kiến thức cho bạn
+            <!-- Source for this blog -->
+          </h6>
           <BaseButton
             size="xs"
             class="ml-2"

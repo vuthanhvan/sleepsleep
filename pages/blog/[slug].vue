@@ -96,7 +96,7 @@
                   </div>
                 </div> -->
                 <NuxtLink class="block pt-8" to="/blog"
-                  >Back to the blog
+                  >Back to the blogghg
                 </NuxtLink>
               </footer>
             </div>

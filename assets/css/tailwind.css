@@ -34,4 +34,8 @@
   textarea {
     @apply text-black;
   }
+/* 
+  body {
+    background-color: #E9F1E3;
+  } */
 }

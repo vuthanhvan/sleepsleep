@@ -73,4 +73,8 @@
     </NuxtLayout>
   </div>
 </template>
-<style></style>
+<style>
+ body {
+    background-color: #E9F1E3;
+  }
+</style>

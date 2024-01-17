@@ -5,10 +5,10 @@ export type Pet = {
   name: string
   breed: string
   sex: string
-  dateOfBirth: string
+  size: string
   image: string
   imageOptimized?: ImageOptimized
-  microchip: string
+  code: string
   location: string
 }
 

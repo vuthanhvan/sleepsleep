@@ -13,7 +13,7 @@
   >
     <PostDate
       :date="post.date"
-      class="text-primary-600 dark:text-primary-200"
+      class="text-blue-600 dark:text-blue-200"
     />
     <div class="space-y-5 xl:col-span-3">
       <div class="space-y-6">

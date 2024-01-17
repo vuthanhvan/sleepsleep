@@ -81,7 +81,7 @@ export default defineAppConfig({
       default: {
         size: 'sm',
         variant: 'solid',
-        color: 'primary',
+        color: 'blue',
         loadingIcon: 'heroicons:arrow-path-20-solid',
       },
     },

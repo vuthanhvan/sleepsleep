@@ -1,10 +1,11 @@
+<!-- CỬA HÀNG -->
 <script setup>
   definePageMeta({
     // layout: 'default',
     // name: 'blog',
     // alias: 'blog',
-    title: 'Adopt Now',
-    description: 'Adopt Your Fur Mate!',
+    title: 'Cửa hàng',
+    description: 'Cửa hàng của chúng tôi!',
     navOrder: 2,
     type: 'primary',
     icon: 'i-mdi-home',
@@ -13,15 +14,14 @@
 </script>
 <template>
   <div
-    class="py-12 bg-primary-100 dark:bg-primary-700 text-primary-900 dark:text-primary-100"
+    class="py-12 text-blue-900 dark:text-blue-100  bg-blue-100 dark:bg-blue-300"
   >
     <div class="flex flex-col items-center">
       <div class="px-4 text-center w-full lg:w-7/12">
-        <h6 class="uppercase">Adopt A Pet</h6>
-        <h3 class="capitalize">Small Gesture For A Big Impact</h3>
-        <p class="mb-4">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae
-          congue tortor.
+        <h6 class="uppercase dark:text-gray-700">Cửa hàng</h6>
+        <h3 class="capitalize dark:text-gray-700">Cửa hàng của chúng tôi</h3>
+        <p class="mb-4 dark:text-blue-900">
+         Những thiết kế và các icon của trang web làm nên thương hiệu của chúng tôi.
         </p>
       </div>
     </div>
