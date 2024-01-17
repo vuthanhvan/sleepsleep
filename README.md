@@ -1,76 +1,17 @@
-# Happy Paws - Fullstack, SEO friendly, performant app with Nuxt & Tailwind CSS
+# Ngủ Ngon Nhé! - Fullstack, SEO friendly, performant app with Nuxt & Tailwind CSS
 
-Nuxt 3 Fullstack (SPA-SSR) app for an pet adoption organisation. Pet data is fetched via APIs served by server routes (Nitro-powered), statically generated articles fetched from an external REST API source, a blog authored with markdown files, and everything styled with the power and beauty of Tailwind CSS.
+Website là nơi lý tưởng để bạn tìm thấy những podcast thú vị để lắng nghe trước khi đi ngủ.
 
-This is a sample project created using the [Vue Designer Nuxt Tailwind CSS - Quick start template](https://github.com/pinegrow/pg-nuxt-tailwindcss).
+Tại trang web "Ngủ Ngon", chúng tôi hiểu rằng giấc ngủ là một yếu tố quan trọng để duy trì sức khỏe và cân bằng trong cuộc sống hiện đại. Do đó, chúng tôi đã tạo ra một bộ sưu tập đặc biệt các podcast chất lượng cao, giúp bạn thư giãn tâm trí và chuẩn bị tinh thần trước khi đi vào giấc ngủ.
 
-Demo - https://happy-paws-with-nuxt-tailwindcss.netlify.app/
+Đặc biệt, chúng tôi luôn cập nhật danh sách podcast mới nhất để bạn luôn có những gợi ý nghe mới mỗi khi ghé thăm trang web "Ngủ Ngon". Bạn có thể dễ dàng lựa chọn những chủ đề và phong cách podcast phù hợp với sở thích riêng của mình.
+
+Hãy truy cập vào "Ngủ Ngon" ngay hôm nay và tận hưởng những tràng podcast tuyệt vời trước khi đi ngủ! 🌙💤
 
 ## Vue Designer
 
-A desktop visual editor for Vue apps supporting Mac, Windows, and Linux by [Pinegrow](https://pinegrow.com/). Take it for a free trial at [Vue Designer](https://vuedesigner.com)!
+Website được thiết kế mang lại trải nghiệm tốt cho người dùng, được thiết kế bởi Nana ❤️
 
-It lets you visually design 🎨 your Vue single file components and boosts your productivity and creativity while building your component-based Vue apps.
-
-It smartly integrates with your ⚡️ [Vite](https://vitejs.dev/) based CLI and provides an amazing developer experience with its powerful visual controls and features.
-
-Clean code 😃, No lock-in - You are in control of your projects and development workflow ❤️
-
-## Try it now!
-
-### 1. Clone to local
-
-[Create a repo from this template on GitHub](https://github.com/pinegrow/happy-paws-with-nuxt-tailwindcss/generate).
-
-(or)
-
-If you prefer to do it manually with the cleaner git history
-
-```bash
-npx giget@latest gh:pinegrow/happy-paws-with-nuxt-tailwindcss my-happy-paws-with-nuxt-tailwindcss-app #project-name
-cd my-happy-paws-with-nuxt-tailwindcss-app
-npm install #or use pnpm
-```
-
-## 2. Open in Vue Designer
-
-Open your project in Vue Designer and follow the instructions displayed in the Config Panel (that should pop out automatically). Config Panel ⚙️ displays the key packages and the various links to their individual ecosystems and communities.
-
-## Usage
-
-### Start your development server
-
-```bash
-npm run dev
-```
-
-### Preview
-
-```bash
-npm run now # build & preview
-```
-
-### Lighthouse
-
-```bash
-npm run unlighthouse # Uses npx unlighthouse from https://unlighthouse.dev/ to run lighthouse on entire site (all pages)
-```
-
-### Build
-
-```bash
-npm run build # SPA SSR
-npm run generate # SPA SSG (full-static)
-```
-
-And you will see the generated file in `dist` that's ready to be served.
-
-### Deploy to Netlify
-
-You can deploy this repo as a site on your own to explore and experiment with, by clicking this button.
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Pinegrow/happy-paws-with-nuxt-tailwindcss)
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
 ## Pre-packed
 
@@ -122,22 +63,3 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 - Use Composition API with [`<script setup>` SFC syntax](https://vuejs.org/guide/scaling-up/sfc.html)
 - [ESLint](https://eslint.org) with [@nuxt/eslint-config](https://github.com/nuxt/eslint-config) - opinionated not-so-strict set of linting rules.
 - [Prettier](https://prettier.io) with [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - format without conflicting with eslint rules.
-
-### Typescript
-
-This project allows JS, and strict mode is turned off. Update `tsconfig.ts` as required.
-
-```json
-{
-  // https://nuxt.com/docs/guide/concepts/typescript
-  "extends": "./.nuxt/tsconfig.json",
-  "compilerOptions": {
-    "allowJs": true,
-    "strict": false
-  }
-}
-```
-
-## Community
-
-- [Vue Designer Community](https://discord.gg/BYp45Nnu5T)
