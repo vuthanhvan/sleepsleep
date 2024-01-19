@@ -5,7 +5,7 @@ definePageMeta({
     // alias: 'volunteer',
     title: '',
     description: `Don't Miss Out – Stay in the Know, Subscribe Today!`,
-    navOrder: '6',
+    navOrder: '5',
     type: 'primary',
     icon: 'i-mdi-home',
     // ogImage: 'images/ogImage.png', // url or local images inside public folder, for eg, ~/public/images/ogImage.png
@@ -27,24 +27,25 @@ definePageMeta({
                         </p>
                         <div class="mb-4 flex justify-center">
                             <img decoding="async"
-                                src="https://sleeptightstories.org/wp-content/uploads/2021/09/rainbow-1024x408.png"
+                                src="https://i.pinimg.com/564x/cd/0a/08/cd0a0897c732851cf462f5976a016742.jpg"
                                 alt="we love bedtime stories" width="150" class="align-center size-medium wp-image-491">
                         </div>
-
                         <div
                             class="-mx-4 flex flex-col flex-wrap  mb-10 text-center pl-4 pr-8 py-4 md:flex-col md:flex-nowrap mt-12 lg:items-start ">
                             <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
                                 <img decoding="async"
-                                    src="https://i.pinimg.com/564x/87/e4/23/87e42324e194b9633ff23c79aa8b716d.jpg"
+                                    src="https://i.pinimg.com/564x/cd/0a/08/cd0a0897c732851cf462f5976a016742.jpg"
                                     alt="we love bedtime stories" width="40"
                                     class="aligncenter size-medium wp-image-491 mr-5">
-                                <h5 class="leading-5" style="color: #F59194;"><a href="https://open.spotify.com/episode/3U5tuNnOIsbPOH13fTqCt1"> Sinh nhật một mình 🎉
+                                <h5 class="leading-5" style="color: #F59194;"><a
+                                        href="https://open.spotify.com/episode/3U5tuNnOIsbPOH13fTqCt1"> Sinh nhật một mình
+                                        🎉
                                     </a></h5>
                             </div>
 
                             <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
                                 <img decoding="async"
-                                    src="https://i.pinimg.com/564x/87/e4/23/87e42324e194b9633ff23c79aa8b716d.jpg"
+                                    src="https://i.pinimg.com/564x/cd/0a/08/cd0a0897c732851cf462f5976a016742.jpg"
                                     alt="we love bedtime stories" width="40"
                                     class="aligncenter size-medium wp-image-491 mr-5">
                                 <h5 class="leading-5" style="color: #F59194;"><a href="/"> Margherita and the Christmas Tree
@@ -53,16 +54,16 @@ definePageMeta({
                             </div>
                             <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
                                 <img decoding="async"
-                                    src="https://i.pinimg.com/564x/87/e4/23/87e42324e194b9633ff23c79aa8b716d.jpg"
+                                    src="https://i.pinimg.com/564x/cd/0a/08/cd0a0897c732851cf462f5976a016742.jpg"
                                     alt="we love bedtime stories" width="40"
                                     class="aligncenter size-medium wp-image-491 mr-5">
-                                <h5 class="leading-5" style="color: #F59194;"><a href="/"> Bobby Builds A Robot That Farts 🤖
+                                <h5 class="leading-5" style="color: #F59194;"><a href="/"> Bobby Builds A Robot That Farts
+                                        🤖
                                     </a></h5>
                             </div>
-
                             <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
                                 <img decoding="async"
-                                    src="https://i.pinimg.com/564x/87/e4/23/87e42324e194b9633ff23c79aa8b716d.jpg"
+                                    src="https://i.pinimg.com/564x/cd/0a/08/cd0a0897c732851cf462f5976a016742.jpg"
                                     alt="we love bedtime stories" width="40"
                                     class="aligncenter size-medium wp-image-491 mr-5">
                                 <h5 class="leading-5" style="color: #F59194;"><a href="/"> Fred and the Raccoon 🦝
@@ -70,16 +71,16 @@ definePageMeta({
                             </div>
                             <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
                                 <img decoding="async"
-                                    src="https://i.pinimg.com/564x/87/e4/23/87e42324e194b9633ff23c79aa8b716d.jpg"
+                                    src="https://i.pinimg.com/564x/cd/0a/08/cd0a0897c732851cf462f5976a016742.jpg"
                                     alt="we love bedtime stories" width="40"
                                     class="aligncenter size-medium wp-image-491 mr-5">
-                                <h5 class="leading-5" style="color: #F59194;"><a href="/"> Puddles and Splash Have A Strange Visitor 🐖🐔
+                                <h5 class="leading-5" style="color: #F59194;"><a href="/"> Puddles and Splash Have A Strange
+                                        Visitor 🐖🐔
                                     </a></h5>
                             </div>
-
                             <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
                                 <img decoding="async"
-                                    src="https://i.pinimg.com/564x/87/e4/23/87e42324e194b9633ff23c79aa8b716d.jpg"
+                                    src="https://i.pinimg.com/564x/cd/0a/08/cd0a0897c732851cf462f5976a016742.jpg"
                                     alt="we love bedtime stories" width="40"
                                     class="aligncenter size-medium wp-image-491 mr-5">
                                 <h5 class="leading-5" style="color: #F59194;"><a href="/"> Blaze and Max 🐈🐁
@@ -90,8 +91,6 @@ definePageMeta({
                 </div>
             </div>
         </div>
-
-
         <div>
             <div class="my-24 flex justify-center">
                 <img decoding="async" src="https://sleeptightstories.org/wp-content/uploads/2020/06/shootingstar.png"
@@ -103,7 +102,7 @@ definePageMeta({
             <div class="flex justify-center">
                 <div class="inline-block m-2">
                     <a title="Listen to Sleep Tight Stories on Apple Podcasts"
-                        href="https://podcasts.apple.com/us/podcast/sleep-tight-stories/id1440863621?mt=2">
+                        href="https://podcasts.apple.com/">
                         <img decoding="async"
                             src="https://sleeptightrelax.com/cms/wp-content/uploads/2020/03/Apple_Podcasts.png"
                             alt="Listen to Sleep Tight Stories on Apple Podcasts" width="225"></a>
@@ -146,6 +145,5 @@ definePageMeta({
                 </div>
             </div>
         </div>
-    </div>
-</template>
+    </div></template>
 <style scoped></style>

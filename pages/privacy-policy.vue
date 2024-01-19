@@ -5,7 +5,7 @@ definePageMeta({
     // alias: 'volunteer',
     title: '',
     description: `Điều khoản và chính sách!`,
-    navOrder: '8',
+    navOrder: '7',
     // type: 'secondary',
     icon: 'i-mdi-home',
     // ogImage: 'images/ogImage.png', // url or local images inside public folder, for eg, ~/public/images/ogImage.png
@@ -21,7 +21,7 @@ definePageMeta({
                             Điều khoản và chính sách
                         </h2>
                         <div class="mb-10 flex justify-start">
-                            <h5 class="leading-5">Cập nhật lần cuối: ngày 20 tháng 12 năm 2023
+                            <h5 class="leading-5 ">Cập nhật lần cuối: ngày 20 tháng 12 năm 2023
                             </h5>
                         </div>
                         <p class="text-start mb-5">Vui lòng đọc kỹ các Điều khoản sử dụng này trước khi sử dụng trang web
@@ -37,10 +37,10 @@ definePageMeta({
                             class="-mx-4 flex flex-col flex-wrap mb-10 text-center pr-8 py-4 md:flex-col md:flex-nowrap  lg:items-start ">
                             <div class="font-serif text-center flex justify-center items-center ml-5 mt-2">
                                 <img decoding="async"
-                                    src="https://i.pinimg.com/564x/87/e4/23/87e42324e194b9633ff23c79aa8b716d.jpg"
+                                    src="https://i.pinimg.com/originals/4d/1e/14/4d1e14f40cb5d2d5329a611f62636f59.gif"
                                     alt="we love bedtime stories" width="40"
                                     class="aligncenter size-medium wp-image-491 mr-5">
-                                <h5 class="leading-5">Sở hữu trí tuệ
+                                <h5 class="leading-5 text-blue-500">Sở hữu trí tuệ
                                 </h5>
                             </div>
                             <p class="text-start my-5">Dịch vụ cũng như nội dung, tính năng và chức năng ban đầu của Dịch vụ
@@ -49,10 +49,10 @@ definePageMeta({
 
                             <div class="font-serif text-center flex justify-center items-center ml-5 mt-2">
                                 <img decoding="async"
-                                    src="https://i.pinimg.com/564x/87/e4/23/87e42324e194b9633ff23c79aa8b716d.jpg"
+                                    src="https://i.pinimg.com/originals/4d/1e/14/4d1e14f40cb5d2d5329a611f62636f59.gif"
                                     alt="we love bedtime stories" width="40"
                                     class="aligncenter size-medium wp-image-491 mr-5">
-                                <h5 class="leading-5">Liên kết đến các trang web khác
+                                <h5 class="leading-5 text-blue-500">Liên kết đến các trang web khác
                                 </h5>
                             </div>
                             <p class="text-start my-5">Chúng tôi đặc biệt khuyên bạn nên đọc các điều khoản, điều kiện và
@@ -67,10 +67,10 @@ definePageMeta({
 
                             <div class="font-serif text-center flex justify-center items-center ml-5 mt-2">
                                 <img decoding="async"
-                                    src="https://i.pinimg.com/564x/87/e4/23/87e42324e194b9633ff23c79aa8b716d.jpg"
+                                    src="https://i.pinimg.com/originals/4d/1e/14/4d1e14f40cb5d2d5329a611f62636f59.gif"
                                     alt="we love bedtime stories" width="40"
                                     class="aligncenter size-medium wp-image-491 mr-5">
-                                <h5 class="leading-5">Các nhà cung cấp dịch vụ
+                                <h5 class="leading-5 text-blue-500">Các nhà cung cấp dịch vụ
                                 </h5>
                             </div>
                             <p class="text-start my-5">Chúng tôi có thể thuê các công ty và cá nhân bên thứ ba để tạo điều
@@ -82,10 +82,10 @@ definePageMeta({
                                 dụng thông tin đó cho bất kỳ mục đích nào khác.</p>
                             <div class="font-serif text-center flex justify-center items-center ml-5 mt-2">
                                 <img decoding="async"
-                                    src="https://i.pinimg.com/564x/87/e4/23/87e42324e194b9633ff23c79aa8b716d.jpg"
+                                    src="https://i.pinimg.com/originals/4d/1e/14/4d1e14f40cb5d2d5329a611f62636f59.gif"
                                     alt="we love bedtime stories" width="40"
                                     class="aligncenter size-medium wp-image-491 mr-5">
-                                <h5 class="leading-5">Bảo vệ
+                                <h5 class="leading-5 text-blue-500">Bảo vệ
                                 </h5>
                             </div>
                             <p class="text-start my-5">Việc bảo mật Thông tin cá nhân của bạn rất quan trọng đối với chúng
@@ -95,10 +95,10 @@ definePageMeta({
                                 bảo mật tuyệt đối của thông tin đó.</p>
                             <div class="font-serif text-center flex justify-center items-center ml-5 mt-2">
                                 <img decoding="async"
-                                    src="https://i.pinimg.com/564x/87/e4/23/87e42324e194b9633ff23c79aa8b716d.jpg"
+                                    src="https://i.pinimg.com/originals/4d/1e/14/4d1e14f40cb5d2d5329a611f62636f59.gif"
                                     alt="we love bedtime stories" width="40"
                                     class="aligncenter size-medium wp-image-491 mr-5">
-                                <h5 class="leading-5">Quyền riêng tư của trẻ em
+                                <h5 class="leading-5 text-blue-500">Quyền riêng tư của trẻ em
                                 </h5>
                             </div>
                             <p class="text-start my-5">Dịch vụ của chúng tôi không đề cập đến bất kỳ ai dưới 18 tuổi (“Trẻ
@@ -110,10 +110,10 @@ definePageMeta({
                                 thông tin đó khỏi máy chủ của chúng tôi ngay lập tức.</p>
                             <div class="font-serif text-center flex justify-center items-center ml-5 mt-2">
                                 <img decoding="async"
-                                    src="https://i.pinimg.com/564x/87/e4/23/87e42324e194b9633ff23c79aa8b716d.jpg"
+                                    src="https://i.pinimg.com/originals/4d/1e/14/4d1e14f40cb5d2d5329a611f62636f59.gif"
                                     alt="we love bedtime stories" width="40"
                                     class="aligncenter size-medium wp-image-491 mr-5">
-                                <h5 class="leading-5">Liên hệ chúng tôi
+                                <h5 class="leading-5 text-blue-500">Liên hệ chúng tôi
                                 </h5>
                             </div>
                             <p class="text-start my-5">Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản này, vui lòng liên hệ

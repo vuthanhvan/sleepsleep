@@ -3,7 +3,7 @@
 // @unocss-include
 
 export default {
-  name: 'Ngủ Ngon Nhé!',
+  name: 'Ngủ Ngon!',
   description: 'Adopt Your Fur Mate',
   logo: 'i-noto:cat-face',
   author: 'Nana',
@@ -25,12 +25,12 @@ export default {
       type: 'secondary',
       icon: 'i-mdi-home',
     },
-    {
-      text: 'Articles',
-      link: '/articles',
-      type: 'secondary',
-      icon: 'i-mdi-home',
-    },
+    // {
+    //   text: 'Articles',
+    //   link: '/articles',
+    //   type: 'secondary',
+    //   icon: 'i-mdi-home',
+    // },
     { text: 'Blog', link: '/blog', type: 'secondary', icon: 'i-mdi-home' },
     {
       text: 'Về chúng tôi',

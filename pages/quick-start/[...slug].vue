@@ -36,15 +36,6 @@ useServerSeoMeta({
             và thói quen về thời gian ngủ của bạn,
             giúp loại bỏ những khó khăn mà các gia đình thường gặp phải khi đi ngủ.
           </h6>
-          <!-- <BaseButton
-            size="xs"
-            class="ml-2"
-            color="secondary"
-            :to="github"
-            target="_blank"
-          >
-            <span>Click here</span>
-          </BaseButton> -->
         </div>
         <slot />
       </div>
@@ -78,8 +69,7 @@ useServerSeoMeta({
 
 
             <div
-              class="block hover:opacity-75 overflow-hidden rounded-xl  m-10 p-8 border-solid border-2 dark:text-blue-950"
-              style="background-color: #E9F1E3 ;">
+              class="block hover:opacity-75 overflow-hidden rounded-xl  m-10 p-8 border-solid border-2 dark:text-blue-950 bg-blue-300">
               <div class="dark:text-blue-950 text-start">
                 <!-- <p class="text-start my-5">SỐ TK: <span style="color: #F59194;">9971320713</span></p>
                 <p class="text-start my-5">Ngân hàng: <span style="color: #F59194;">Vietcombank</span></p>

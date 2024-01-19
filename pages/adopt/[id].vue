@@ -44,14 +44,14 @@ useHead({
             </div>
             <div class="flex items-center justify-center py-4 space-x-4 text-center w-full lg:w-fit">
               <BaseIcon name="i-material-symbols-mark-email-unread-outline" height="28px"></BaseIcon>
-              <NuxtLink to="https://www.facebook.com/">
-                <BaseIcon name="i-logos-facebook" height="28px"></BaseIcon>
+              <NuxtLink href="https://www.facebook.com/" aria-label="facebook" external target="_blank">
+                <BaseIcon name="i-logos-facebook" class="text-2xl" width="28px"></BaseIcon>
               </NuxtLink>
-              <NuxtLink to="/adopt">
-                <BaseIcon name="i-logos-shopee-icon" height="28px"></BaseIcon>
+              <NuxtLink href="https://twitter.com/" aria-label="twitter" external target="_blank">
+                <BaseIcon name="i-logos-twitter" class="text-2xl" width="28px"></BaseIcon>
               </NuxtLink>
-              <NuxtLink to="/adopt">
-                <BaseIcon name="i-logos-facebook" height="28px"></BaseIcon>
+              <NuxtLink href="https://www.youtube.com/" aria-label="youtube" external target="_blank">
+                <BaseIcon name="i-logos-youtube-icon" class="text-2xl" width="28px"></BaseIcon>
               </NuxtLink>
             </div>
           </div>

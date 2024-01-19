@@ -8,12 +8,12 @@
       <!-- <div
       class="bg-center bg-cover bg-no-repeat blur-none rounded-3xl z-0 bg-design-image lg:bg-design-image-large"
     > -->
-      <div class>
+      <div class="mx-auto p-4 w-full">
         <div class="lg:px-8 md:pt-20 pb-6 relative rounded-3xl">
-          <div class="-mx-4 flex flex-wrap items-center space-y-6 lg:space-y-0">
-            <div class="px-4 w-full mx-12 ">
-              <div class="-mx-4 flex flex-wrap items-center relative">
-                <div class="flex-1 flex-col flex-wrap  text-center pl-4  py-4 md:flex-col md:flex-nowrap -mt-4 lg:items-start">
+          <div class=" flex flex-wrap items-center space-y-6 lg:space-y-0">
+            <div class=" w-full">
+              <div class=" flex flex-wrap items-center relative">
+                <div class="flex-1 flex-col flex-wrap  text-center pl-4  py-4 md:flex-col md:flex-nowrap lg:items-start">
                   <h4 class="font-bold font-boid mb-12 mt-1 text-neutral-700 dark:text-info-50">
                     Podcast những câu chuyện về giấc ngủ mang lại niềm vui và sự bình yên cho các gia đình trên khắp thế
                     giới
@@ -29,7 +29,7 @@
                   </div>
 
                 </div>
-                <div class="flex flex-col justify-center mt-12 flex-col items-center p-4 w-full md:w-1/2 md:flex-1 lg:items-start ml-20">
+                <div class="flex flex-col justify-center flex-col items-center hidden md:block p-4 w-full lg:flex-1 lg:items-start ml-20">
                   <div class="bird"></div>
                   <div class="cloud"></div>
                   <div class="globe">
@@ -52,11 +52,11 @@
               </div>
 
             <div class="flex justify-center ">
-                <div class="my-24 flex justify-center img-icon1">
+                <div class="my-12 flex justify-center img-icon1">
                 </div>
             </div>
 
-              <h5 class=" text-center font-serif mb-12 mt-1  m-32">
+              <h5 class=" text-center font-serif mb-12 mt-1 ">
                 Mỗi tuần chúng tôi mang đến cho bạn những câu chuyện mới êm dịu trước khi đi ngủ. Những câu chuyện đề cao
                 sự ngạc nhiên, sáng tạo và kích thích trí tưởng tượng của người nghe trẻ tuổi đồng thời giúp họ dễ dàng
                 chìm vào giấc ngủ. Chúng có độ dài hoàn hảo và có những tác phẩm nguyên bản cũng như kinh điển không bao
@@ -74,7 +74,7 @@
                 <div class="flex justify-center flex flex-wrap relative">
                   <div class="inline-block m-2 flex flex-col flex-wrap">
                     <a title="Listen to Sleep Tight Stories on Apple Podcasts"
-                      href="https://podcasts.apple.com/us/podcast/sleep-tight-stories/id1440863621?mt=2">
+                      href="https://podcasts.apple.com/">
                       <img decoding="async"
                         src="https://sleeptightrelax.com/cms/wp-content/uploads/2020/03/Apple_Podcasts.png"
                         alt="Listen to Sleep Tight Stories on Apple Podcasts" width="225"></a>
@@ -94,7 +94,7 @@
                         alt="Listen to Sleep Tight Stories on Spotify" width="225"></a>
                   </div>
                 </div>
-                <p class="font-bold text-center font-serif m-10 mx-48">
+                <p class="font-bold text-center font-serif m-10 md:mx-48">
                   Nghe những câu chuyện để bạn đi vào giấc ngủ.Để biết thêm những câu chuyện trước khi đi ngủ và hơn thế
                   nữa.
                 </p>
@@ -117,7 +117,7 @@
                   </div>
                 </div>
               </div>
-              <div class="flex justify-evenly mx-48 mt-30 my-10">
+              <div class="flex justify-evenly md:mx-48 mt-30 my-10">
                 <h4 class="text-center font-serif  uppercase dark:text-info-700">
                   Nghe
                 </h4>
@@ -323,9 +323,9 @@ a {
 }
 
 .img-icon1{
-   background-image: url(../public/img/icon-img-heard.png);
-      width: 130px;
-    height: 85px;
+   background-image: url(https://i.pinimg.com/564x/65/bc/9a/65bc9a911ecadcb06d8f6387925f1003.jpg);
+      width: 15rem;
+    height: 15rem;
   background-size: cover;
 }
 .globe {

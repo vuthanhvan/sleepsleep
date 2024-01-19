@@ -5,7 +5,7 @@ definePageMeta({
   // alias: 'volunteer',
   title: 'Về chúng tôi',
   description: `Don't Miss Out – Stay in the Know, Subscribe Today!`,
-  navOrder: '7',
+  navOrder: '6',
   type: 'secondary',
   icon: 'i-mdi-home',
   // ogImage: 'images/ogImage.png', // url or local images inside public folder, for eg, ~/public/images/ogImage.png
@@ -20,15 +20,15 @@ definePageMeta({
             <h2 class="font-bold leading-tight mb-5 text-3xl">
               VỀ CHÚNG TÔI
             </h2>
-            <p class="mb-8">
+            <p class="mb-4">
               Câu chuyện về giấc ngủ mang đến cho bạn những câu chuyện mới êm dịu trước khi đi ngủ mỗi tuần. Mỗi câu
               chuyện có độ dài phù hợp và an toàn cho trẻ em ở mọi lứa tuổi.
             </p>
-            <div class="mb-4 flex justify-center">
-              <img decoding="async" src="https://sleeptightstories.org/wp-content/uploads/2021/09/rainbow-1024x408.png"
-                alt="we love bedtime stories" width="150" class="align-center size-medium wp-image-491">
+            <div class="mb-2 flex justify-center">
+              <img decoding="async" src="https://i.pinimg.com/originals/8e/f7/99/8ef79988294afe31f147f906af474fe0.gif"
+                alt="we love bedtime stories" width="200" class="align-center size-medium wp-image-491">
             </div>
-
+            <!-- 
             <div class="flex"> 900
               <div class="bg-primary-900 dark:text-primary-100 w-2 h-2 p-10 "></div>
               <div class="bg-gray-900 dark:text-primary-100 w-2 h-2 p-10 "></div>
@@ -176,8 +176,8 @@ definePageMeta({
               <div class="bg-warning-50 dark:text-primary-100 w-2 h-2 p-10 "></div>
               <div class="bg-error-50 dark:text-primary-100 w-2 h-2 p-10 "></div>
               <div class="bg-info-50 dark:text-primary-100 w-2 h-2 p-10 "></div>
-            </div>
-  
+            </div>  -->
+
 
             <div class="flex flex-col p-4 w-full">
               <div class="-mx-2 flex flex-wrap lg:mt-2">
@@ -266,8 +266,8 @@ definePageMeta({
               </div>
             </div>
             <div class="mb-4 flex justify-center">
-              <img decoding="async" src="https://sleeptightstories.org/wp-content/uploads/2021/09/wand@2-792x1024.png"
-                alt="we love bedtime stories" width="150" class="align-center size-medium wp-image-491">
+              <img decoding="async" src="https://i.pinimg.com/originals/81/23/0a/81230a8131094cf3bcc2996cb605f44f.gif"
+                alt="we love bedtime stories" width="200" class="align-center size-medium wp-image-491">
             </div>
 
             <div
@@ -301,22 +301,22 @@ definePageMeta({
             <div
               class="-mx-4 flex flex-col flex-wrap  mb-5 text-center pl-4 pr-8 py-4 md:flex-col md:flex-nowrap -mt-4 lg:items-start ">
               <div class="font-serif inline-flex text-center  text-3xl">
-                <div class="mb-4 flex justify-center pr-5">
+                <!-- <div class="mb-4 flex justify-center pr-5">
                   <img decoding="async" src="https://i.pinimg.com/564x/4c/68/84/4c688440a794843e9686d9fb28c3ded2.jpg"
                     alt="we love bedtime stories" width="50" class="align-center size-medium wp-image-491">
-                </div>
+                </div> -->
                 <h6 class="font-serif inline-flex items-center text-3xl">
                   Nghe ở đâu:
                 </h6>
               </div>
               <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
-                <img decoding="async" src="https://i.pinimg.com/564x/c7/7f/8a/c77f8a242a3c9ab08c2d58300a588147.jpg"
+                <img decoding="async" src="https://i.pinimg.com/564x/72/53/65/725365f36bddbe637485c855196d46a8.jpg"
                   alt="we love bedtime stories" width="40" class="aligncenter size-medium wp-image-491 mr-5">
                 <p>Google Podcast : </p>
                 <span style="color: red;"><a href="/"> Podcast</a></span>
               </div>
               <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
-                <div><img decoding="async" src="https://i.pinimg.com/564x/bc/f7/e5/bcf7e532fccf80a92c0c37347cee7185.jpg"
+                <div><img decoding="async" src="https://i.pinimg.com/564x/d7/10/76/d7107640d19ed8a381a6ddc97ce61295.jpg"
                     alt="we love bedtime stories" width="40" class="aligncenter size-medium wp-image-491 mr-5"></div>
                 <div class="flex">
                   <p> Podcast của Apple : </p>
@@ -324,7 +324,7 @@ definePageMeta({
                 </div>
               </div>
               <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
-                <img decoding="async" src="https://i.pinimg.com/564x/ef/d1/96/efd196e97e7aa1d712a895bc79ea5ac7.jpg"
+                <img decoding="async" src="https://i.pinimg.com/564x/25/01/8e/25018ee61e5d1c6061075443a5460be6.jpg"
                   alt="we love bedtime stories" width="40" class="aligncenter size-medium wp-image-491 mr-5">
                 <p> Spotify: : </p>
                 <span style="color: red;"><a href="/"> Podcast</a></span>
@@ -334,7 +334,7 @@ definePageMeta({
               class="-mx-4 flex flex-col flex-wrap  mb-10 text-center pl-4 pr-8 py-4 md:flex-col md:flex-nowrap -mt-4 lg:items-start ">
               <div class="font-serif inline-flex text-center pb-5  text-3xl">
                 <div class="mb-4 flex justify-center pr-5">
-                  <img decoding="async" src="https://i.pinimg.com/564x/c4/c8/4f/c4c84f3faec6778e2945752389fcbff4.jpg"
+                  <img decoding="async" src="https://i.pinimg.com/564x/d5/41/96/d54196892ac39b9da5e34a9f0ffa428c.jpg"
                     alt="we love bedtime stories" width="50" class="align-center size-medium wp-image-491">
                 </div>
                 <h6 class="font-serif inline-flex items-center text-3xl">
@@ -344,14 +344,14 @@ definePageMeta({
               <p>Chúng tôi xuất bản tập mới vào thứ Ba và thứ Năm hàng tuần lúc 9 giờ sáng (UTC -3).</p>
             </div>
             <div class="mb-4 flex justify-center">
-              <img decoding="async" src="https://sleeptightstories.org/wp-content/uploads/2021/09/wand@2-792x1024.png"
+              <img decoding="async" src="https://i.pinimg.com/originals/4f/48/8c/4f488c09dbabd854b7209a39bfbbb363.gif"
                 alt="we love bedtime stories" width="150" class="align-center size-medium wp-image-491">
             </div>
             <div
               class="-mx-4 flex flex-col flex-wrap  mb-10 text-center pl-4 pr-8 py-4 md:flex-col md:flex-nowrap -mt-4 lg:items-start  ">
               <div class="font-serif inline-flex text-center  text-3xl">
                 <div class="mb-4 flex justify-center pr-5">
-                  <img decoding="async" src="https://i.pinimg.com/564x/57/cb/3d/57cb3d81d1e769cf1e6caaa41ccca858.jpg"
+                  <img decoding="async" src="https://i.pinimg.com/originals/4f/48/8c/4f488c09dbabd854b7209a39bfbbb363.gif"
                     alt="we love bedtime stories" width="50" class="align-center size-medium wp-image-491">
                 </div>
                 <h6 class="font-serif inline-flex items-center text-3xl">
@@ -359,27 +359,34 @@ definePageMeta({
                 </h6>
               </div>
               <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
-                <img decoding="async" src="https://i.pinimg.com/564x/a3/3d/0b/a33d0b8694614a86443d38df2f4698df.jpg"
+                <img decoding="async" src="https://i.pinimg.com/564x/41/fc/e1/41fce16c62e3121a8ccbdff8d1d35f84.jpg"
                   alt="we love bedtime stories" width="40" class="aligncenter size-medium wp-image-491 mr-5">
-                <p>Instagram </p>
-
+                <NuxtLink href="https://www.instagram.com/" aria-label="facebook" external target="_blank">
+                  <p>Instagram </p>
+                </NuxtLink>
               </div>
               <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
-                <div><img decoding="async" src="https://i.pinimg.com/564x/aa/a5/8a/aaa58a25b96086743e81c0afcc934f3d.jpg"
+                <div><img decoding="async" src="https://i.pinimg.com/564x/88/6b/f8/886bf8d2d6b311ecfef255b71e399905.jpg"
                     alt="we love bedtime stories" width="40" class="aligncenter size-medium wp-image-491 mr-5"></div>
                 <div class="flex">
-                  <p> Twitter </p>
+                  <NuxtLink href="https://www.facebook.com/" aria-label="facebook" external target="_blank">
+                    <p>Twitter </p>
+                  </NuxtLink>
                 </div>
               </div>
               <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
-                <img decoding="async" src="https://i.pinimg.com/564x/9e/eb/66/9eeb66315ca28d658ccd72c660116f1a.jpg"
+                <img decoding="async" src="https://i.pinimg.com/736x/34/55/8c/34558ce934c4031196bb5e6b2b4b2903.jpg"
                   alt="we love bedtime stories" width="40" class="aligncenter size-medium wp-image-491 mr-5">
-                <p> Facebook </p>
+                <NuxtLink href="https://www.facebook.com/" aria-label="facebook" external target="_blank">
+                    <p>Facebook </p>
+                  </NuxtLink>
               </div>
               <div class="font-serif text-center flex justify-center items-center ml-10 mt-2">
-                <img decoding="async" src="https://i.pinimg.com/564x/38/bc/ba/38bcbafcdb373ea68506c3025941d2f9.jpg"
+                <img decoding="async" src="https://i.pinimg.com/564x/bd/ae/7f/bdae7f9bda4b5de974be8383d1b5aeb7.jpg"
                   alt="we love bedtime stories" width="40" class="aligncenter size-medium wp-image-491 mr-5">
-                <p> Pinterest </p>
+                <NuxtLink href="https://www.pinterest.com/" aria-label="facebook" external target="_blank">
+                    <p>Pinterest </p>
+                  </NuxtLink>
               </div>
             </div>
           </div>
@@ -389,15 +396,15 @@ definePageMeta({
 
 
 
-    <div id="contact"
-      class="pt-14 pb-12 text-center bg-primary-100 dark:bg-primary-700 text-primary-900 dark:text-primary-100">
+    <div id="contact" 
+      class="pt-14 pb-12 text-center bg-info-100 dark:bg-blue-500 text-blue-900 dark:text-blue-100">
       <div class="container mx-auto px-4">
         <div class="-mx-4 flex flex-wrap">
           <div class="mx-auto px-4 rounded-2xl w-full lg:w-8/12">
             <div>
               <div class="m-10 flex justify-center">
-                <img decoding="async" src="https://sleeptightstories.org/wp-content/uploads/2021/09/rainbow-1024x408.png"
-                  alt="we love bedtime stories" width="150" class="align-center size-medium wp-image-491">
+                <img decoding="async" src="https://media2.giphy.com/media/qaffEmiXKvhsD11NiG/giphy.gif"
+                  alt="we love bedtime stories" width="200" class="align-center size-medium wp-image-491">
               </div>
               <div
                 class="block hover:opacity-75 overflow-hidden rounded-xl  m-10 p-8 border-solid border-2 dark:text-primary-950"
@@ -451,8 +458,6 @@ definePageMeta({
         </div>
       </div>
     </div>
-
-
     <div>
       <div class="my-24 flex justify-center">
         <img decoding="async" src="https://sleeptightstories.org/wp-content/uploads/2020/06/shootingstar.png"
@@ -463,8 +468,7 @@ definePageMeta({
       </h5>
       <div class="flex justify-center">
         <div class="inline-block m-2">
-          <a title="Listen to Sleep Tight Stories on Apple Podcasts"
-            href="https://podcasts.apple.com/us/podcast/sleep-tight-stories/id1440863621?mt=2">
+          <a title="Listen to Sleep Tight Stories on Apple Podcasts" href="https://podcasts.apple.com/">
             <img decoding="async" src="https://sleeptightrelax.com/cms/wp-content/uploads/2020/03/Apple_Podcasts.png"
               alt="Listen to Sleep Tight Stories on Apple Podcasts" width="225"></a>
         </div>

@@ -21,7 +21,7 @@ defineProps({
       </BaseButton>
     </div>
     <NuxtLink to="/story">
-      <BaseButton class="ml-3" target="_blank" to="" size="xl" color="secondary"><span class="pl-2">Câu chuyện</span>
+      <BaseButton class="ml-3" target="_blank" to="" size="xl" ><span class="pl-2">Câu chuyện</span>
         <template #trailing>
           <BaseIcon name="i-mdi-pine-tree" height="24px"></BaseIcon>
         </template>
